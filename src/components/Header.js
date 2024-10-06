@@ -32,7 +32,7 @@ export default function Header(props) {
   return (
     <header>
       <div>
-        <FaHome className="home-icon" /> {/* Add the FaHome icon here */}
+        <FaHome className="home-icon" />
         <span className='logo'>ДомСтрой</span>
         <ul className='nav'>
           <li>Про нас</li>
